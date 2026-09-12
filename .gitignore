@@ -1,0 +1,8 @@
+backend/.env
+backend/study_game.db
+**/__pycache__/
+**/*.pyc
+frontend.zip
+node_modules/
+dist/
+*.log
